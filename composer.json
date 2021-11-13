@@ -1,10 +1,10 @@
 {
-    "name": "invoice-llc/payment-laravel",
+    "name": "tjslash/payment-laravel",
     "description": "Invoice Laravel SDK",
     "license": "MIT",
     "require": {
         "php": ">=5.6.4",
-         "laravel/framework": "^5.3"
+         "laravel/framework": "^6.2"
     },
     "autoload": {
         "psr-4": {
